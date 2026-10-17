@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <a href="https://github.com/786sohelreza-star/">
-    <img src="[https://msrezaportfolio.vercel.app/]?username=786sohelreza-star" alt="786sohelreza-star" />
+    <img src="https://www.linkedin.com/in/mdsohelreza/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKhufrLwQToeWkJSlsG10EQ%3D%3D />
   </a> 
 </p>
 
