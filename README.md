@@ -6,14 +6,14 @@
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/786sohelreza-star/">
     <img src="https://github-profile-trophy.vercel.app/?username=786sohelreza-star" alt="786sohelreza-star" />
   </a> 
 </p>
 
 - 🔭 I’m currently working on [Book my Career](https://bookmycareer.co/)
 - 🌱 I’m currently learning **JAVA**
-- 👨‍💻 All of my projects are available at [https://msreza.netlify.app/](https://msreza.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://msreza.netlify.app/](https://msrezaportfolio.vercel.app/)
 - 💬 Ask me about **Full-Stack Dev**
 - 📫 How to reach me **786sohelreza@gmail.com**
 
