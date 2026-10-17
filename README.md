@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=786sohelreza-star&label=Profile%20views&color=0e75b6&style=flat" alt="786sohelreza-star" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/786sohelreza-star/">
-    <img src="https://www.linkedin.com/in/mdsohelreza/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKhufrLwQToeWkJSlsG10EQ%3D%3D />
-  </a> 
-</p>
+
 
 - 🔭 I’m currently working on [Book my Career](https://bookmycareer.co/)
 - 🌱 I’m currently learning **JAVA**
