@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Book my Career](https://bookmycareer.co/)
 - 🌱 I’m currently learning **JAVA**
-- 👨‍💻 All of my projects are available at [https://msrezaportfolio.vercel.app/](https://msrezaportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://msreza.vercel.app/](https://msreza.vercel.app/)
 - 💬 Ask me about **Full-Stack Dev**
 - 📫 How to reach me **786sohelreza@gmail.com**
 
